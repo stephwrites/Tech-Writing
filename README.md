@@ -10,4 +10,4 @@ This repository contains a portfolio of my technical writing samples. These samp
 # About Steph Writes
 Stephwrites is the professional portfolio of Steph, a technical communicator who writes, creates, and tells stories about tech, science, and anything in between. Steph is passionate about demystification--that is, making high-tech or complex concepts accessible and understandable to everyone. When given the chance, she loves fostering authenticity at work through content that carries a genyine personality within a trusthworthy narrative.
 
-Learn more about Steph, including her resume and contact information, at [stephwrites.net](https://stephwrites.net/#three).
+Learn more about Steph, including her resume and contact information, at [stephwrites.net](https://stephwrites.net/).
