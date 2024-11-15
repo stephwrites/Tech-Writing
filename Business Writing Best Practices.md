@@ -44,11 +44,11 @@ A communication with simple mistakes can leave a negative impression. Proofreadi
 # Resources
 Check the resources below for further information, including guides, examples, templates, and more.
 
-## Writing Better Emails
+## Write Better Emails
 Improve your basic email communication skills by reading the Harvard Busines Review's [How to Write Better Emails at Work](https://hbr.org/2021/08/how-to-write-better-emails-at-work).
 
-## Writing a Business Proposal
+## Write Better Business Proposals
 See Grammarly's [How to Write a Great Business Proposal](https://www.grammarly.com/blog/business-proposal/) for guidance and a basic template.
 
-## Writing a Business Report
+## Write Better Business Reports
 See Indeed's [How to Write a Business Report](https://www.indeed.com/career-advice/career-development/how-to-write-a-business-report) for guidance and examples.
